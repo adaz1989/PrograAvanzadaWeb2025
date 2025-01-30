@@ -1,0 +1,625 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProyectoDeportivoCostaRica.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProyectoDeportivoCostaRica.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\css\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\_blank.png",
+      "PackagePath": "staticwebassets\\images\\_blank.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\images\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\banner-free-01.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-free-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\banner-free-02.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-free-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\bg-breadcrumbs-1-1920x726.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-breadcrumbs-1-1920x726.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\bg-pattern-boxed.png",
+      "PackagePath": "staticwebassets\\images\\bg-pattern-boxed.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\blog-element-1-94x94.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-element-1-94x94.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\blog-element-2-94x94.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-element-2-94x94.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\blog-element-3-94x94.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-element-3-94x94.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\blog-element-4-94x94.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-element-4-94x94.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\footer-soccer-post-1-93x87.jpg",
+      "PackagePath": "staticwebassets\\images\\footer-soccer-post-1-93x87.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\footer-soccer-post-2-93x87.jpg",
+      "PackagePath": "staticwebassets\\images\\footer-soccer-post-2-93x87.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\footer-soccer-post-3-93x87.jpg",
+      "PackagePath": "staticwebassets\\images\\footer-soccer-post-3-93x87.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\footer-soccer-post-4-93x87.jpg",
+      "PackagePath": "staticwebassets\\images\\footer-soccer-post-4-93x87.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\gallery-soccer-1-212x212.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-soccer-1-212x212.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\gallery-soccer-1-original.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-soccer-1-original.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\gallery-soccer-2-212x212.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-soccer-2-212x212.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\gallery-soccer-2-original.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-soccer-2-original.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\gallery-soccer-3-212x212.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-soccer-3-212x212.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\gallery-soccer-3-original.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-soccer-3-original.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\gallery-soccer-4-212x212.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-soccer-4-212x212.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\gallery-soccer-4-original.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-soccer-4-original.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\gallery-soccer-5-212x212.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-soccer-5-212x212.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\gallery-soccer-5-original.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-soccer-5-original.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\gallery-soccer-6-212x212.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-soccer-6-212x212.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\gallery-soccer-6-original.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-soccer-6-original.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\ie8-panel\\warning_bar_0000_us.jpg",
+      "PackagePath": "staticwebassets\\images\\ie8-panel\\warning_bar_0000_us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\logo-soccer-default-95x126.png",
+      "PackagePath": "staticwebassets\\images\\logo-soccer-default-95x126.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\logo-team-1-237x312.png",
+      "PackagePath": "staticwebassets\\images\\logo-team-1-237x312.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\logo-team-2-233x233.png",
+      "PackagePath": "staticwebassets\\images\\logo-team-2-233x233.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\news-2-1-368x287.jpg",
+      "PackagePath": "staticwebassets\\images\\news-2-1-368x287.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\news-2-2-368x287.jpg",
+      "PackagePath": "staticwebassets\\images\\news-2-2-368x287.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\news-2-3-368x287.jpg",
+      "PackagePath": "staticwebassets\\images\\news-2-3-368x287.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\news-2-4-368x287.jpg",
+      "PackagePath": "staticwebassets\\images\\news-2-4-368x287.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\news-3-1-370x325.jpg",
+      "PackagePath": "staticwebassets\\images\\news-3-1-370x325.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\news-3-2-370x325.jpg",
+      "PackagePath": "staticwebassets\\images\\news-3-2-370x325.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\news-3-3-370x325.jpg",
+      "PackagePath": "staticwebassets\\images\\news-3-3-370x325.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\partners-1-inverse-75x42.png",
+      "PackagePath": "staticwebassets\\images\\partners-1-inverse-75x42.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\partners-2-inverse-88x45.png",
+      "PackagePath": "staticwebassets\\images\\partners-2-inverse-88x45.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\partners-3-inverse-79x52.png",
+      "PackagePath": "staticwebassets\\images\\partners-3-inverse-79x52.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\player-1-368x300.png",
+      "PackagePath": "staticwebassets\\images\\player-1-368x300.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\player-2-368x300.png",
+      "PackagePath": "staticwebassets\\images\\player-2-368x300.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\player-5-152x144.jpg",
+      "PackagePath": "staticwebassets\\images\\player-5-152x144.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\player-6-152x144.jpg",
+      "PackagePath": "staticwebassets\\images\\player-6-152x144.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\post-gloria-1-769x429.jpg",
+      "PackagePath": "staticwebassets\\images\\post-gloria-1-769x429.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\post-slide-1-769x397.jpg",
+      "PackagePath": "staticwebassets\\images\\post-slide-1-769x397.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\post-slide-2-769x397.jpg",
+      "PackagePath": "staticwebassets\\images\\post-slide-2-769x397.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\post-slide-3-769x397.jpg",
+      "PackagePath": "staticwebassets\\images\\post-slide-3-769x397.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\preloader.gif",
+      "PackagePath": "staticwebassets\\images\\preloader.gif"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\preloader.png",
+      "PackagePath": "staticwebassets\\images\\preloader.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\product-Nike-Air-Zoom-Pegasus-67x30.png",
+      "PackagePath": "staticwebassets\\images\\product-Nike-Air-Zoom-Pegasus-67x30.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\product-Nike-Baseball-Hat-55x38.png",
+      "PackagePath": "staticwebassets\\images\\product-Nike-Baseball-Hat-55x38.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\shop\\product-1.png",
+      "PackagePath": "staticwebassets\\images\\shop\\product-1.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\shop\\product-2.png",
+      "PackagePath": "staticwebassets\\images\\shop\\product-2.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\shop\\product-3.png",
+      "PackagePath": "staticwebassets\\images\\shop\\product-3.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\slider-1-slide-1-1920x671.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-1-slide-1-1920x671.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\slider-1-slide-2-1920x671.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-1-slide-2-1920x671.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\slider-1-slide-3-1920x671.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-1-slide-3-1920x671.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\team-athletic-33x30.png",
+      "PackagePath": "staticwebassets\\images\\team-athletic-33x30.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\team-barcelona-30x35.png",
+      "PackagePath": "staticwebassets\\images\\team-barcelona-30x35.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\team-barcelona-84x101.png",
+      "PackagePath": "staticwebassets\\images\\team-barcelona-84x101.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\team-bavaria-fc-26x34.png",
+      "PackagePath": "staticwebassets\\images\\team-bavaria-fc-26x34.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\team-bavaria-fc-38x50.png",
+      "PackagePath": "staticwebassets\\images\\team-bavaria-fc-38x50.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\team-bavaria-fc-77x99.png",
+      "PackagePath": "staticwebassets\\images\\team-bavaria-fc-77x99.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\team-celta-vigo-35x39.png",
+      "PackagePath": "staticwebassets\\images\\team-celta-vigo-35x39.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\team-celta-vigo-45x50.png",
+      "PackagePath": "staticwebassets\\images\\team-celta-vigo-45x50.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\team-dream-team-34x34.png",
+      "PackagePath": "staticwebassets\\images\\team-dream-team-34x34.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\team-dream-team-50x50.png",
+      "PackagePath": "staticwebassets\\images\\team-dream-team-50x50.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\team-dream-team-91x91.png",
+      "PackagePath": "staticwebassets\\images\\team-dream-team-91x91.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\team-fenix-40x32.png",
+      "PackagePath": "staticwebassets\\images\\team-fenix-40x32.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\team-real-madrid-28x37.png",
+      "PackagePath": "staticwebassets\\images\\team-real-madrid-28x37.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\team-real-madrid-38x50.png",
+      "PackagePath": "staticwebassets\\images\\team-real-madrid-38x50.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\team-real-madrid-78x98.png",
+      "PackagePath": "staticwebassets\\images\\team-real-madrid-78x98.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\team-sportland-31x41.png",
+      "PackagePath": "staticwebassets\\images\\team-sportland-31x41.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\team-sportland-41x55.png",
+      "PackagePath": "staticwebassets\\images\\team-sportland-41x55.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\team-sportland-75x99.png",
+      "PackagePath": "staticwebassets\\images\\team-sportland-75x99.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\thumbnail-minimal-1-67x147.png",
+      "PackagePath": "staticwebassets\\images\\thumbnail-minimal-1-67x147.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\thumbnail-minimal-2-68x126.png",
+      "PackagePath": "staticwebassets\\images\\thumbnail-minimal-2-68x126.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\thumbnail-minimal-3-73x135.png",
+      "PackagePath": "staticwebassets\\images\\thumbnail-minimal-3-73x135.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\thumbnail-minimal-4-68x126.png",
+      "PackagePath": "staticwebassets\\images\\thumbnail-minimal-4-68x126.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\video-play.png",
+      "PackagePath": "staticwebassets\\images\\video-play.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\vimeo-play.png",
+      "PackagePath": "staticwebassets\\images\\vimeo-play.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\images\\youtube-play.png",
+      "PackagePath": "staticwebassets\\images\\youtube-play.png"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\js\\core.min.js",
+      "PackagePath": "staticwebassets\\js\\core.min.js"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\juanp\\source\\repos\\ProyectoDeportivoCostaRica\\ProyectoDeportivoCostaRica\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProyectoDeportivoCostaRica.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProyectoDeportivoCostaRica.props",
+      "PackagePath": "build\\ProyectoDeportivoCostaRica.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProyectoDeportivoCostaRica.props",
+      "PackagePath": "buildMultiTargeting\\ProyectoDeportivoCostaRica.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProyectoDeportivoCostaRica.props",
+      "PackagePath": "buildTransitive\\ProyectoDeportivoCostaRica.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
