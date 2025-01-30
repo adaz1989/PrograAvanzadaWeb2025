@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\netCore\\PrograAvanzadaWeb2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A886D4DD-5556-47C1-B16D-2F072700A259}|ProyectoDeportivoCR\\ProyectoDeportivoCR.csproj|c:\\netcore\\prograavanzadaweb2025\\proyectodeportivocr\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A886D4DD-5556-47C1-B16D-2F072700A259}|ProyectoDeportivoCR\\ProyectoDeportivoCR.csproj|solutionrelative:proyectodeportivocr\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A886D4DD-5556-47C1-B16D-2F072700A259}|ProyectoDeportivoCR\\ProyectoDeportivoCR.csproj|c:\\netcore\\prograavanzadaweb2025\\proyectodeportivocr\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A886D4DD-5556-47C1-B16D-2F072700A259}|ProyectoDeportivoCR\\ProyectoDeportivoCR.csproj|solutionrelative:proyectodeportivocr\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A886D4DD-5556-47C1-B16D-2F072700A259}|ProyectoDeportivoCR\\ProyectoDeportivoCR.csproj|c:\\netcore\\prograavanzadaweb2025\\proyectodeportivocr\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A886D4DD-5556-47C1-B16D-2F072700A259}|ProyectoDeportivoCR\\ProyectoDeportivoCR.csproj|solutionrelative:proyectodeportivocr\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 57,
+          "SelectedChildIndex": 58,
           "Children": [
             {
               "$type": "Bookmark",
@@ -250,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\netCore\\PrograAvanzadaWeb2025\\ProyectoDeportivoCR\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ProyectoDeportivoCR\\Views\\Home\\Index.cshtml",
@@ -263,13 +263,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\netCore\\PrograAvanzadaWeb2025\\ProyectoDeportivoCR\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ProyectoDeportivoCR\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\netCore\\PrograAvanzadaWeb2025\\ProyectoDeportivoCR\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ProyectoDeportivoCR\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAHcAAAAAAAAAAADgv38AAABzAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-30T20:57:35.211Z",
               "EditorCaption": ""

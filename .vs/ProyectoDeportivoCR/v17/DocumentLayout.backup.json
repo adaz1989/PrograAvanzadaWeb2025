@@ -9,10 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A886D4DD-5556-47C1-B16D-2F072700A259}|ProyectoDeportivoCR\\ProyectoDeportivoCR.csproj|c:\\netcore\\prograavanzadaweb2025\\proyectodeportivocr\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A886D4DD-5556-47C1-B16D-2F072700A259}|ProyectoDeportivoCR\\ProyectoDeportivoCR.csproj|solutionrelative:proyectodeportivocr\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A886D4DD-5556-47C1-B16D-2F072700A259}|ProyectoDeportivoCR\\ProyectoDeportivoCR.csproj|c:\\netcore\\prograavanzadaweb2025\\proyectodeportivocr\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{A886D4DD-5556-47C1-B16D-2F072700A259}|ProyectoDeportivoCR\\ProyectoDeportivoCR.csproj|solutionrelative:proyectodeportivocr\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     }
   ],
   "DocumentGroupContainers": [
@@ -260,7 +256,7 @@
               "RelativeDocumentMoniker": "ProyectoDeportivoCR\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\netCore\\PrograAvanzadaWeb2025\\ProyectoDeportivoCR\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ProyectoDeportivoCR\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-30T21:30:11.201Z",
               "EditorCaption": ""
@@ -271,24 +267,12 @@
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\netCore\\PrograAvanzadaWeb2025\\ProyectoDeportivoCR\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ProyectoDeportivoCR\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\netCore\\PrograAvanzadaWeb2025\\ProyectoDeportivoCR\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "ProyectoDeportivoCR\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAA4AAAAAAAAAAADgvxMAAAAgAAAAAAAAAA==",
+              "ToolTip": "C:\\netCore\\PrograAvanzadaWeb2025\\ProyectoDeportivoCR\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProyectoDeportivoCR\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-30T20:57:35.211Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "favicon.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [32x32, 32 bits, BMP]",
-              "DocumentMoniker": "C:\\netCore\\PrograAvanzadaWeb2025\\ProyectoDeportivoCR\\wwwroot\\favicon.ico",
-              "RelativeDocumentMoniker": "ProyectoDeportivoCR\\wwwroot\\favicon.ico",
-              "ToolTip": "C:\\netCore\\PrograAvanzadaWeb2025\\ProyectoDeportivoCR\\wwwroot\\favicon.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [32x32, 32 bits, BMP]",
-              "RelativeToolTip": "ProyectoDeportivoCR\\wwwroot\\favicon.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [32x32, 32 bits, BMP]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
-              "WhenOpened": "2025-01-30T20:57:27.353Z",
-              "EditorCaption": " -  [Espa\u00F1ol (M\u00E9xico)] - Icon [32x32, 32 bits, BMP]"
             }
           ]
         },
